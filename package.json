@@ -1,0 +1,17 @@
+{
+  "name": "oauth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Dylan Kieran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0"
+  }
+}
